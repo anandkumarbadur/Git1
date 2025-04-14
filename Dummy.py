@@ -1,4 +1,1 @@
-Print("hellow")
-
-
 print("anand")
